@@ -1,0 +1,7 @@
+.*
+!.gitignore
+*.code-workspace
+terraform.tfstate
+terraform.tfstate*
+terraform.tfvars
+*.tfvars
